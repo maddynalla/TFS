@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/cdw_test1_0.1</module>
     <module>jobs/process/cdw_test2_0.1</module>
+    <module>jobs/process/cdw_test1_0.2</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
