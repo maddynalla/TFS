@@ -14,6 +14,7 @@
     <module>jobs/process/cdw_test2_0.1</module>
     <module>jobs/process/cdw_test1_0.2</module>
     <module>jobs/process/cdw_test1_0.3</module>
+    <module>jobs/process/cdw_test3_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
